@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/circular_queue.h
+stdexcept
+-
+string
+-
+iostream
+-
+
+/home/davide/Desktop/Queue/include/circular_queue.h
+stdexcept
+-
+string
+-
+iostream
+-
+
+/home/davide/Desktop/Queue/main.cpp
+iostream
+-
+stdexcept
+-
+include/circular_queue.h
+/home/davide/Desktop/Queue/include/circular_queue.h
+
+/home/davide/Desktop/Queue/src/CircularQueue.cpp
+circular_queue.h
+/home/davide/Desktop/Queue/src/circular_queue.h
+cmath
+-
+iostream
+/home/davide/Desktop/Queue/src/iostream
+

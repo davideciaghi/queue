@@ -1,0 +1,5 @@
+/home/davide/Desktop/Queue/build/CMakeFiles/rebuild_cache.dir
+/home/davide/Desktop/Queue/build/CMakeFiles/edit_cache.dir
+/home/davide/Desktop/Queue/build/CMakeFiles/mainEntry.dir
+/home/davide/Desktop/Queue/build/CMakeFiles/package_source.dir
+/home/davide/Desktop/Queue/build/CMakeFiles/package.dir

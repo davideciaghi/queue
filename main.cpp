@@ -1,6 +1,6 @@
 #include <iostream>
 #include <stdexcept>
-#include "circular_queue.h"
+#include "include/circular_queue.h"
  
 
 using namespace std;
@@ -61,17 +61,6 @@ int main() {
    };
  
    cout << "end of the program!" << endl;
-
-
-{
-    my::CircularQueue q2(9);  // Nuova coda di dimensione 9
-    cout << "Ciao" << endl;
-}
-
-    cout << "dopo blocco" << endl;
-
-    cout << "end of the program!" << endl;
-
 
    return 0;
 }

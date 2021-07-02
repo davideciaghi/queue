@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/davide/Desktop/Queue/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/davide/Desktop/Queue/include  -g   -std=gnu++1z -o CMakeFiles/mainEntry.dir/main.cpp.o -c /home/davide/Desktop/Queue/main.cpp",
+  "file": "/home/davide/Desktop/Queue/main.cpp"
+},
+{
+  "directory": "/home/davide/Desktop/Queue/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/davide/Desktop/Queue/include  -g   -std=gnu++1z -o CMakeFiles/mainEntry.dir/src/CircularQueue.cpp.o -c /home/davide/Desktop/Queue/src/CircularQueue.cpp",
+  "file": "/home/davide/Desktop/Queue/src/CircularQueue.cpp"
+}
+]

@@ -18,7 +18,7 @@ namespace my {
        int head;
        int capacity;
        int size;
-       char *arr[];
+       char *arr;
 
  
        public:
@@ -88,9 +88,6 @@ namespace my {
            */
         char dequeue();
 
-
-
-        int get_arr();
       
    };
   
